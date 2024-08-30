@@ -51,9 +51,9 @@ Next, create a bulleted list of some of your favorite things about CS193 (if you
 We have provided a simple Markdown syntax guide and other useful resources in the `index.md`. The syntax guide is in the code block, which begins and ends with ` ``` ` (three backticks or one for inline code block) and interprets text literally (*italicize syntax, not in code block* v.s. `*italicize syntax, in code block*`). Feel free to keep or delete the guide, but **make sure not to put actual website contents inside of the code block**.
 
 When you're done, commit your changes, just as you did above and you're done! **CONGRATULATIONS** you just completed your first CS193 homework :) Give yourself a pat on the back and bask in the glory of your brand-new fancy GitHub Website!
-
+Ack,
 ## Optional Extra - Change the Theme of Your Website
-
+WWWWWOOOOOWZERSSSSS
 If you aren't a fan of the super cool hacker theme that I chose to be the default of your website, you can easily change it.
 Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github Username\>** and scroll down to the **GitHub Pages** section. Click on **Change theme** and pick your favorite theme!
 
